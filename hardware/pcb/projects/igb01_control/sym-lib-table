@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ldk320")(type "Legacy")(uri "${KIPRJMOD}/../../../pcb/libs/symbols/ldk320.lib")(options "")(descr ""))
+  (lib (name "bi_color_led_sw")(type "Legacy")(uri "${KIPRJMOD}/../../../pcb/libs/symbols/bi_color_led_sw.lib")(options "")(descr ""))
+  (lib (name "push_sw_w_led")(type "KiCad")(uri "${KIPRJMOD}/../../../pcb/libs/symbols/push_sw_w_led.kicad_sym")(options "")(descr ""))
+  (lib (name "slider_pot_new")(type "KiCad")(uri "${KIPRJMOD}/../../../pcb/libs/symbols/slider_pot_new.kicad_sym")(options "")(descr ""))
+  (lib (name "LED_E6C0606RGBC3UDA")(type "Legacy")(uri "${KIPRJMOD}/../../../pcb/libs/symbols/LED_E6C0606RGBC3UDA.lib")(options "")(descr ""))
+  (lib (name "MCP33151")(type "KiCad")(uri "${KIPRJMOD}/../../../pcb/libs/symbols/MCP33151.kicad_sym")(options "")(descr ""))
+  (lib (name "OPA1677")(type "KiCad")(uri "${KIPRJMOD}/../../../pcb/libs/symbols/OPA1677.kicad_sym")(options "")(descr ""))
+  (lib (name "R_Pot_360")(type "KiCad")(uri "${KIPRJMOD}/../../../pcb/libs/symbols/R_Pot_360.kicad_sym")(options "")(descr ""))
+)

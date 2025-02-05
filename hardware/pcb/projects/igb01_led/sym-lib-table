@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LED_E6C0606RGBC3UDA")(type "Legacy")(uri "C:/projects/igb01/hardware/pcb/libs/symbols/LED_E6C0606RGBC3UDA.lib")(options "")(descr ""))
+)
