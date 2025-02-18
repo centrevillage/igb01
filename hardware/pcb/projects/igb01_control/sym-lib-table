@@ -8,4 +8,6 @@
   (lib (name "MCP33151")(type "KiCad")(uri "${KIPRJMOD}/../../../pcb/libs/symbols/MCP33151.kicad_sym")(options "")(descr ""))
   (lib (name "OPA1677")(type "KiCad")(uri "${KIPRJMOD}/../../../pcb/libs/symbols/OPA1677.kicad_sym")(options "")(descr ""))
   (lib (name "R_Pot_360")(type "KiCad")(uri "${KIPRJMOD}/../../../pcb/libs/symbols/R_Pot_360.kicad_sym")(options "")(descr ""))
+  (lib (name "thonkiconn")(type "Legacy")(uri "${KIPRJMOD}/../../../pcb/libs/symbols/thonkiconn.lib")(options "")(descr ""))
+  (lib (name "thonkicon_stereo")(type "KiCad")(uri "C:/projects/igb01/hardware/pcb/libs/symbols/thonkicon_stereo.kicad_sym")(options "")(descr ""))
 )
