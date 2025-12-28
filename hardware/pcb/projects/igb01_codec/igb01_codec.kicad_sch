@@ -2278,6 +2278,12 @@
 		(uuid "6b1f3260-5132-455d-a9f6-14ba4291a7b2")
 	)
 	(junction
+		(at 180.34 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6f9c5fd5-a9d3-4213-8492-b51155f315f6")
+	)
+	(junction
 		(at 110.49 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3676,6 +3682,16 @@
 			(type default)
 		)
 		(uuid "ef09d2c2-a5c4-490d-9318-d01b0bf959de")
+	)
+	(wire
+		(pts
+			(xy 180.34 95.25) (xy 181.61 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efb63bc8-9874-431c-9e9d-d44b6f54b1d0")
 	)
 	(wire
 		(pts
@@ -5756,7 +5772,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 170.18 153.67 90)
+		(at 147.32 163.83 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5764,7 +5780,7 @@
 		(dnp no)
 		(uuid "6b3e93d4-c5fb-4271-829b-6c46b9ccf9b1")
 		(property "Reference" "#PWR08"
-			(at 176.53 153.67 0)
+			(at 153.67 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5773,7 +5789,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 172.974 153.67 90)
+			(at 150.114 163.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5782,7 +5798,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 153.67 0)
+			(at 147.32 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5791,7 +5807,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 153.67 0)
+			(at 147.32 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5800,7 +5816,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 170.18 153.67 0)
+			(at 147.32 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6224,7 +6240,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 160.02 153.67 270)
+		(at 137.16 163.83 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6233,7 +6249,7 @@
 		(fields_autoplaced yes)
 		(uuid "7b1d95a7-d40a-41eb-acbd-a4425cf0183f")
 		(property "Reference" "#PWR07"
-			(at 153.67 153.67 0)
+			(at 130.81 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6242,7 +6258,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 156.21 153.6699 90)
+			(at 133.35 163.8299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6251,7 +6267,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 160.02 153.67 0)
+			(at 137.16 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6260,7 +6276,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 153.67 0)
+			(at 137.16 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6269,7 +6285,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 160.02 153.67 0)
+			(at 137.16 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7718,7 +7734,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Open")
-		(at 165.1 153.67 0)
+		(at 142.24 163.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7727,7 +7743,7 @@
 		(fields_autoplaced yes)
 		(uuid "df01d7b4-57c1-4c34-8370-8f52b1422ce8")
 		(property "Reference" "JP1"
-			(at 165.1 147.32 0)
+			(at 142.24 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7735,7 +7751,7 @@
 			)
 		)
 		(property "Value" "Jumper_2_Open"
-			(at 165.1 149.86 0)
+			(at 142.24 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7743,7 +7759,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 165.1 153.67 0)
+			(at 142.24 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7752,7 +7768,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 165.1 153.67 0)
+			(at 142.24 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7761,7 +7777,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, open"
-			(at 165.1 153.67 0)
+			(at 142.24 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8113,6 +8129,72 @@
 			(project "igb01_codec"
 				(path "/825b51f3-faae-4f15-b0e8-fb5f4d162927"
 					(reference "#FLG03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3VA")
+		(at 181.61 95.25 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f3bb71e3-3a56-4a57-8ed5-b693aa77cc91")
+		(property "Reference" "#PWR018"
+			(at 177.8 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3VA"
+			(at 180.594 97.028 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 181.61 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 181.61 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
+			(at 181.61 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8e52b252-35b7-4be0-a546-5b1734550dae")
+		)
+		(instances
+			(project "igb01_codec"
+				(path "/825b51f3-faae-4f15-b0e8-fb5f4d162927"
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
