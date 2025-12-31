@@ -8896,7 +8896,7 @@
 	)
 	(text "PI2"
 		(exclude_from_sim no)
-		(at 316.23 68.58 0)
+		(at 307.34 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10991,6 +10991,10 @@
 	(no_connect
 		(at 67.31 46.99)
 		(uuid "2740e705-b9e1-431d-94ab-476fb3ae41d3")
+	)
+	(no_connect
+		(at 304.8 69.85)
+		(uuid "281113a2-e9c3-4c40-bb46-a9e12e12d2af")
 	)
 	(no_connect
 		(at 246.38 59.69)
@@ -17363,16 +17367,6 @@
 			(justify right bottom)
 		)
 		(uuid "b9614b82-3387-405a-aa08-b41d682d1b52")
-	)
-	(label "SPI2_MISO"
-		(at 304.8 69.85 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bbfe662c-cc90-4f80-be32-cd476e37b7d1")
 	)
 	(label "DSI_D1N"
 		(at 241.3 193.04 180)
