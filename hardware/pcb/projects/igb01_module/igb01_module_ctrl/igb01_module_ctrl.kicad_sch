@@ -9928,12 +9928,6 @@
 		(uuid "099b9562-fb5c-4fe1-91fd-bccb1b8f77e5")
 	)
 	(junction
-		(at 265.43 134.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0aa13a9c-0a69-4573-8d22-e8548a0844e2")
-	)
-	(junction
 		(at 186.69 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9950,12 +9944,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0d07329f-adfc-441e-99f2-e1ffdac38f16")
-	)
-	(junction
-		(at 265.43 160.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0d8c50b0-5b4d-414e-bfcb-4080b1e9e20f")
 	)
 	(junction
 		(at 542.29 161.29)
@@ -9992,6 +9980,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "13aeb1c4-cc7c-4b72-9aab-b431f9f60e5c")
+	)
+	(junction
+		(at 133.35 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "13ce4756-dae7-468e-833c-8e5e8b50b7f2")
 	)
 	(junction
 		(at 302.26 294.64)
@@ -10132,12 +10126,6 @@
 		(uuid "3222b2ba-9b1c-4be7-b8dd-839dad4492f7")
 	)
 	(junction
-		(at 218.44 260.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "334ba348-176d-4a55-b6b0-ecfaccead5b6")
-	)
-	(junction
 		(at 25.4 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10256,12 +10244,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "43cb6bcd-fb4b-4dd9-8386-11f9ec82bb5b")
-	)
-	(junction
-		(at 199.39 260.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4484b5a1-cf8c-4685-b0eb-f2b00818be84")
 	)
 	(junction
 		(at 374.65 222.25)
@@ -10792,12 +10774,6 @@
 		(uuid "a1cb542e-4677-4453-bda0-b4d78311e779")
 	)
 	(junction
-		(at 180.34 260.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a26fc312-e00c-4c03-aedc-d3da87ceb9ea")
-	)
-	(junction
 		(at 478.79 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11020,6 +10996,12 @@
 		(uuid "c5a11b0a-1eba-4024-b16d-0f3eb624c925")
 	)
 	(junction
+		(at 133.35 161.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c5c901bb-c6d8-46b3-a0f3-d1338e5a4417")
+	)
+	(junction
 		(at 491.49 201.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11126,12 +11108,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d66ba43b-ee2e-438d-9a74-34ac42b03c21")
-	)
-	(junction
-		(at 161.29 260.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d731dde6-b233-4f7c-95ae-0b33ae97e3df")
 	)
 	(junction
 		(at 554.99 189.23)
@@ -11613,16 +11589,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 257.81) (xy 213.36 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0158598c-8218-424b-8a07-40d29c70cdd6")
-	)
-	(wire
-		(pts
 			(xy 265.43 167.64) (xy 266.7 167.64)
 		)
 		(stroke
@@ -11943,6 +11909,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 153.67) (xy 137.16 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c2c0a00-49f9-46fd-87c0-c7ecfe5c64db")
+	)
+	(wire
+		(pts
 			(xy 542.29 203.2) (xy 542.29 189.23)
 		)
 		(stroke
@@ -12013,16 +11989,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 260.35) (xy 204.47 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0daeab98-acc0-4a47-8135-8e79b592124e")
-	)
-	(wire
-		(pts
 			(xy 81.28 238.76) (xy 101.6 238.76)
 		)
 		(stroke
@@ -12050,16 +12016,6 @@
 			(type default)
 		)
 		(uuid "0e139b36-4656-4006-9c17-c1a43c047b36")
-	)
-	(wire
-		(pts
-			(xy 257.81 156.21) (xy 265.43 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f7a351a-300a-4e69-80af-0c22d70f1198")
 	)
 	(wire
 		(pts
@@ -12230,16 +12186,6 @@
 			(type default)
 		)
 		(uuid "1498368b-e2ad-4403-be47-e2261ac4bdfc")
-	)
-	(wire
-		(pts
-			(xy 180.34 260.35) (xy 175.26 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14fd9f1c-3716-4af2-a6ce-5224eb26ddc5")
 	)
 	(wire
 		(pts
@@ -12433,16 +12379,6 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 156.21) (xy 247.65 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "192831fe-7f9e-4e64-b1bd-4dbc0eb7e819")
-	)
-	(wire
-		(pts
 			(xy 228.6 102.87) (xy 229.87 102.87)
 		)
 		(stroke
@@ -12473,13 +12409,13 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 254) (xy 223.52 255.27)
+			(xy 133.35 161.29) (xy 133.35 162.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1a355e8b-be23-4ae5-a6e7-295523251785")
+		(uuid "1a10f2cd-d055-4af0-a2be-f3421d915eb7")
 	)
 	(wire
 		(pts
@@ -12693,16 +12629,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 260.35) (xy 175.26 257.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "215a8d46-3f7d-4f65-8fb8-86dea5977e35")
-	)
-	(wire
-		(pts
 			(xy 330.2 180.34) (xy 331.47 180.34)
 		)
 		(stroke
@@ -12783,16 +12709,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 251.46) (xy 156.21 252.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "24e4e84f-d5ae-41d1-9c05-9a1a657b2e59")
-	)
-	(wire
-		(pts
 			(xy 340.36 207.01) (xy 341.63 207.01)
 		)
 		(stroke
@@ -12840,16 +12756,6 @@
 			(type default)
 		)
 		(uuid "25c2196c-776a-460d-8fc9-564f28cecf5f")
-	)
-	(wire
-		(pts
-			(xy 204.47 254) (xy 204.47 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26034f2e-36c5-4cfb-a506-0a37e1f5b711")
 	)
 	(wire
 		(pts
@@ -13120,16 +13026,6 @@
 			(type default)
 		)
 		(uuid "2e16a046-4d1b-4e09-ab94-53b5d1533dab")
-	)
-	(wire
-		(pts
-			(xy 265.43 156.21) (xy 265.43 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e1e4f67-9c26-4f75-b928-76a49315ce07")
 	)
 	(wire
 		(pts
@@ -13463,6 +13359,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 153.67) (xy 137.16 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3916f14b-145c-4754-9e02-f63bb0d2f6c8")
+	)
+	(wire
+		(pts
 			(xy 247.65 171.45) (xy 247.65 170.18)
 		)
 		(stroke
@@ -13490,16 +13396,6 @@
 			(type default)
 		)
 		(uuid "39bd5a26-bfa8-4d1e-913a-8c859533de6c")
-	)
-	(wire
-		(pts
-			(xy 161.29 260.35) (xy 161.29 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a5f4458-63f4-47b8-ada1-685bebf568c5")
 	)
 	(wire
 		(pts
@@ -13923,6 +13819,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 161.29) (xy 137.16 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47b53fa4-c226-41b8-b545-9744b85c2ab2")
+	)
+	(wire
+		(pts
 			(xy 229.87 102.87) (xy 229.87 96.52)
 		)
 		(stroke
@@ -14000,16 +13906,6 @@
 			(type default)
 		)
 		(uuid "49ff625f-0aa6-4e48-9528-814eeeed666c")
-	)
-	(wire
-		(pts
-			(xy 257.81 130.81) (xy 265.43 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a418d0f-d2e5-4b0f-aee7-82f5e04fa027")
 	)
 	(wire
 		(pts
@@ -14140,16 +14036,6 @@
 			(type default)
 		)
 		(uuid "50b16944-fa80-477f-9d30-c6eea4f655a3")
-	)
-	(wire
-		(pts
-			(xy 218.44 260.35) (xy 223.52 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50be0843-5ea5-4835-83dd-c5337ab51680")
 	)
 	(wire
 		(pts
@@ -14290,16 +14176,6 @@
 			(type default)
 		)
 		(uuid "57ae2bad-dcfc-44ec-8129-21796abdb429")
-	)
-	(wire
-		(pts
-			(xy 250.19 156.21) (xy 247.65 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57bbabea-069f-43bd-9778-671560b210d3")
 	)
 	(wire
 		(pts
@@ -14503,16 +14379,6 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 254) (xy 185.42 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60e8c73c-3ba8-48cd-b2ce-4b116b0e14b2")
-	)
-	(wire
-		(pts
 			(xy 39.37 297.18) (xy 39.37 300.99)
 		)
 		(stroke
@@ -14683,16 +14549,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 257.81) (xy 194.31 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "64cc2a63-93e5-4187-90a3-c92ad36693aa")
-	)
-	(wire
-		(pts
 			(xy 170.18 96.52) (xy 177.8 96.52)
 		)
 		(stroke
@@ -14820,6 +14676,16 @@
 			(type default)
 		)
 		(uuid "696d099a-85c2-4409-b857-c654b5b2e182")
+	)
+	(wire
+		(pts
+			(xy 133.35 161.29) (xy 137.16 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69a4c26d-03c9-4b63-9487-749ecb3fb7c8")
 	)
 	(wire
 		(pts
@@ -15323,16 +15189,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 252.73) (xy 194.31 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7691bee2-b1f4-4f30-a675-f0b6971bd1ff")
-	)
-	(wire
-		(pts
 			(xy 72.39 74.93) (xy 77.47 74.93)
 		)
 		(stroke
@@ -15360,16 +15216,6 @@
 			(type default)
 		)
 		(uuid "76f8edc7-5a26-4d37-bccf-50916a46cc14")
-	)
-	(wire
-		(pts
-			(xy 218.44 260.35) (xy 218.44 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "77000ffb-e719-4e6c-aae6-1ef1bcada740")
 	)
 	(wire
 		(pts
@@ -15493,16 +15339,6 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 254) (xy 166.37 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7af3c363-ecf2-4b40-9e31-bd28f91e3e07")
-	)
-	(wire
-		(pts
 			(xy 135.89 96.52) (xy 143.51 96.52)
 		)
 		(stroke
@@ -15530,6 +15366,16 @@
 			(type default)
 		)
 		(uuid "7c6b5525-bf2e-4914-9eb2-bf6c804597a6")
+	)
+	(wire
+		(pts
+			(xy 133.35 160.02) (xy 133.35 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c7fd831-e15b-4f18-8e07-e88ed2f12187")
 	)
 	(wire
 		(pts
@@ -15963,16 +15809,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 257.81) (xy 156.21 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "880464d8-1d49-42fe-bd7c-51042cf9641b")
-	)
-	(wire
-		(pts
 			(xy 125.73 91.44) (xy 129.54 91.44)
 		)
 		(stroke
@@ -16353,16 +16189,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 260.35) (xy 199.39 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99b143c0-2e34-441b-ba15-45304a86cb80")
-	)
-	(wire
-		(pts
 			(xy 121.92 45.72) (xy 121.92 52.07)
 		)
 		(stroke
@@ -16490,16 +16316,6 @@
 			(type default)
 		)
 		(uuid "9f178201-b026-4a30-a8d2-7eed21ac6a16")
-	)
-	(wire
-		(pts
-			(xy 185.42 260.35) (xy 180.34 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f2f0b37-c494-4a87-8bff-ed37000a9e2a")
 	)
 	(wire
 		(pts
@@ -16633,7 +16449,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 257.81) (xy 161.29 260.35)
+			(xy 161.29 257.81) (xy 161.29 261.62)
 		)
 		(stroke
 			(width 0)
@@ -16653,7 +16469,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 257.81) (xy 199.39 260.35)
+			(xy 199.39 257.81) (xy 199.39 261.62)
 		)
 		(stroke
 			(width 0)
@@ -16713,7 +16529,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 257.81) (xy 180.34 260.35)
+			(xy 180.34 257.81) (xy 180.34 261.62)
 		)
 		(stroke
 			(width 0)
@@ -16953,16 +16769,6 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 130.81) (xy 250.19 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b346a384-d83b-4619-bd16-450043122fc1")
-	)
-	(wire
-		(pts
 			(xy 165.1 283.21) (xy 168.91 283.21)
 		)
 		(stroke
@@ -17010,16 +16816,6 @@
 			(type default)
 		)
 		(uuid "b5cca8ad-9c1e-4cb2-a70f-68ab1eba8cd8")
-	)
-	(wire
-		(pts
-			(xy 213.36 260.35) (xy 218.44 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5f07949-6bbe-4f63-819f-22622ab0e113")
 	)
 	(wire
 		(pts
@@ -17310,6 +17106,16 @@
 			(type default)
 		)
 		(uuid "c139d05a-2949-45cd-9fdb-1f488f3dc181")
+	)
+	(wire
+		(pts
+			(xy 133.35 152.4) (xy 133.35 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1afb99c-cb3b-42c0-888e-e81777001b3b")
 	)
 	(wire
 		(pts
@@ -17693,6 +17499,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 153.67) (xy 133.35 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ceb1aaa7-3014-4273-aabc-9c6744980493")
+	)
+	(wire
+		(pts
 			(xy 256.54 91.44) (xy 262.89 91.44)
 		)
 		(stroke
@@ -17790,26 +17606,6 @@
 			(type default)
 		)
 		(uuid "d16366c7-d3ac-4188-9580-880721f86373")
-	)
-	(wire
-		(pts
-			(xy 156.21 260.35) (xy 161.29 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d19c4462-193a-42fe-9d7a-d1830f13ba36")
-	)
-	(wire
-		(pts
-			(xy 161.29 260.35) (xy 166.37 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2013b21-39ff-42b2-9774-64ea13a6059f")
 	)
 	(wire
 		(pts
@@ -18113,16 +17909,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 252.73) (xy 175.26 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dbbcb450-2a40-4079-a780-649c9358ad19")
-	)
-	(wire
-		(pts
 			(xy 31.75 175.26) (xy 35.56 175.26)
 		)
 		(stroke
@@ -18140,16 +17926,6 @@
 			(type default)
 		)
 		(uuid "dc1e2e8e-a123-4fee-9b80-927adf7873ea")
-	)
-	(wire
-		(pts
-			(xy 265.43 130.81) (xy 265.43 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc3a580c-e8c9-4c0b-8ac2-241c1cba9abf")
 	)
 	(wire
 		(pts
@@ -18513,7 +18289,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 257.81) (xy 218.44 260.35)
+			(xy 218.44 257.81) (xy 218.44 261.62)
 		)
 		(stroke
 			(width 0)
@@ -18530,16 +18306,6 @@
 			(type default)
 		)
 		(uuid "e7624579-77ba-4319-a987-74d72458aebd")
-	)
-	(wire
-		(pts
-			(xy 194.31 260.35) (xy 199.39 260.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7913bc7-5116-476f-a2e0-d37cc806f593")
 	)
 	(wire
 		(pts
@@ -18733,16 +18499,6 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 260.35) (xy 180.34 261.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec037cc5-2374-445f-be83-c1a21dd5b457")
-	)
-	(wire
-		(pts
 			(xy 151.13 283.21) (xy 156.21 283.21)
 		)
 		(stroke
@@ -18903,16 +18659,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 251.46) (xy 213.36 252.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1683950-f689-48e1-8c42-3ad12f60dc54")
-	)
-	(wire
-		(pts
 			(xy 551.18 203.2) (xy 554.99 203.2)
 		)
 		(stroke
@@ -18980,16 +18726,6 @@
 			(type default)
 		)
 		(uuid "f480259d-6c86-477d-afae-ae73c460fb0f")
-	)
-	(wire
-		(pts
-			(xy 247.65 134.62) (xy 247.65 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4def3b7-2085-4510-bad3-9e4680bd9a79")
 	)
 	(wire
 		(pts
@@ -19412,7 +19148,7 @@
 		(uuid "0ae2063c-3ac3-4fd5-b6eb-ae8502655da9")
 	)
 	(label "CV_D_OUT"
-		(at 403.86 180.34 0)
+		(at 341.63 207.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19632,7 +19368,7 @@
 		(uuid "222fa5ed-36ed-4207-a4be-f4b5076d1d2d")
 	)
 	(label "CV_A_OUT"
-		(at 341.63 152.4 0)
+		(at 403.86 180.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19862,7 +19598,7 @@
 		(uuid "45bd3e6b-5116-4e98-a897-6d2786635dd7")
 	)
 	(label "CV_B_OUT"
-		(at 403.86 152.4 0)
+		(at 341.63 152.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19902,7 +19638,7 @@
 		(uuid "48c0ea5e-21c9-49d2-a1af-8c0ee4e9e54e")
 	)
 	(label "CV_F_OUT"
-		(at 403.86 207.01 0)
+		(at 403.86 152.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19982,7 +19718,7 @@
 		(uuid "52ca34ee-ea62-4a1c-971e-9f1b19313688")
 	)
 	(label "CV_C_OUT"
-		(at 341.63 180.34 0)
+		(at 403.86 234.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20112,7 +19848,7 @@
 		(uuid "631cce86-5cc2-425b-8d15-1bef278e79ff")
 	)
 	(label "CV_H_OUT"
-		(at 403.86 234.95 0)
+		(at 403.86 207.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20142,7 +19878,7 @@
 		(uuid "68a01cf5-55ba-40b3-966a-f59e42738527")
 	)
 	(label "CV_E_OUT"
-		(at 341.63 207.01 0)
+		(at 341.63 180.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20842,7 +20578,7 @@
 		(uuid "d79c6ddd-09f5-4656-af2f-c602ab876de2")
 	)
 	(label "CLOCK_OUT"
-		(at 441.96 78.74 0)
+		(at 434.34 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20882,7 +20618,7 @@
 		(uuid "dded9bce-adb4-460c-b528-b2b01007a1a8")
 	)
 	(label "RESET_OUT"
-		(at 441.96 111.76 0)
+		(at 434.34 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -21195,7 +20931,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "02c80dd3-95bd-4339-89cd-36b2d78a3133")
-		(property "Reference" "R68"
+		(property "Reference" "R64"
 			(at 172.085 194.945 90)
 			(effects
 				(font
@@ -21249,7 +20985,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R68")
+					(reference "R64")
 					(unit 1)
 				)
 			)
@@ -21614,7 +21350,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 558.8 167.64 90)
 			(effects
 				(font
@@ -21881,7 +21617,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0839e8bd-bbfe-4b46-ace4-3630732217fb")
-		(property "Reference" "R30"
+		(property "Reference" "R28"
 			(at 300.99 114.3 90)
 			(effects
 				(font
@@ -21935,7 +21671,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R30")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -22080,6 +21816,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 137.16 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0b502066-7d3c-4138-ba97-80aa50057d25")
+		(property "Reference" "C26"
+			(at 138.43 156.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10u"
+			(at 138.43 162.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 137.16 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 137.16 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d8f5f3b4-47b4-4dcd-9372-a04e2110490f")
+		)
+		(pin "2"
+			(uuid "471dd911-33e5-4935-bbfc-b3a0ab4c025f")
+		)
+		(instances
+			(project "igb01_module_ctrl"
+				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
+					(reference "C26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 330.2 91.44 0)
 		(unit 1)
@@ -22146,7 +21950,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDA")
-		(at 133.35 160.02 0)
+		(at 133.35 162.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22154,7 +21958,7 @@
 		(dnp no)
 		(uuid "0ba6eab6-40e0-4ca1-8ecc-5ee25b8b7610")
 		(property "Reference" "#PWR093"
-			(at 133.35 166.37 0)
+			(at 133.35 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22163,7 +21967,7 @@
 			)
 		)
 		(property "Value" "GNDA"
-			(at 133.35 165.354 90)
+			(at 133.35 167.894 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22171,7 +21975,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 133.35 160.02 0)
+			(at 133.35 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22180,7 +21984,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 133.35 160.02 0)
+			(at 133.35 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22189,7 +21993,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
-			(at 133.35 160.02 0)
+			(at 133.35 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22549,7 +22353,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0fd8b889-a47e-4c81-b93d-8c142d348e19")
-		(property "Reference" "R85"
+		(property "Reference" "R81"
 			(at 371.475 234.315 90)
 			(effects
 				(font
@@ -22567,7 +22371,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 368.3 234.188 90)
 			(effects
 				(font
@@ -22602,7 +22406,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R85")
+					(reference "R81")
 					(unit 1)
 				)
 			)
@@ -22617,7 +22421,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "106717dc-e315-482f-8a3d-8908d9ca79ac")
-		(property "Reference" "R76"
+		(property "Reference" "R72"
 			(at 309.245 224.155 90)
 			(effects
 				(font
@@ -22635,7 +22439,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 306.07 224.028 90)
 			(effects
 				(font
@@ -22670,7 +22474,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R76")
+					(reference "R72")
 					(unit 1)
 				)
 			)
@@ -22752,7 +22556,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "111c3273-7d18-4b22-87a0-88477df6c5b5")
-		(property "Reference" "R82"
+		(property "Reference" "R78"
 			(at 99.06 227.33 90)
 			(effects
 				(font
@@ -22806,7 +22610,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R82")
+					(reference "R78")
 					(unit 1)
 				)
 			)
@@ -22821,7 +22625,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "116e640b-3974-4a27-a95d-d95321f0e99d")
-		(property "Reference" "R77"
+		(property "Reference" "R73"
 			(at 324.485 224.155 90)
 			(effects
 				(font
@@ -22839,7 +22643,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 321.31 224.028 90)
 			(effects
 				(font
@@ -22874,7 +22678,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R77")
+					(reference "R73")
 					(unit 1)
 				)
 			)
@@ -22889,7 +22693,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "11c44b0c-7820-42aa-9196-80e8fabc52ac")
-		(property "Reference" "C39"
+		(property "Reference" "C40"
 			(at 318.77 229.87 90)
 			(effects
 				(font
@@ -22941,7 +22745,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C39")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -22966,7 +22770,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 190.246 96.012 90)
+			(at 191.77 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23129,7 +22933,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "140917f7-483d-4084-a4a3-8a65877ec9e2")
-		(property "Reference" "R56"
+		(property "Reference" "R52"
 			(at 324.485 169.545 90)
 			(effects
 				(font
@@ -23147,7 +22951,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 321.31 169.418 90)
 			(effects
 				(font
@@ -23182,7 +22986,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R56")
+					(reference "R52")
 					(unit 1)
 				)
 			)
@@ -23417,7 +23221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 520.7 195.58 90)
 			(effects
 				(font
@@ -23486,7 +23290,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "16062d7e-a615-42ad-90ef-054ce3f14c24")
-		(property "Reference" "R38"
+		(property "Reference" "R35"
 			(at 243.84 137.16 90)
 			(effects
 				(font
@@ -23538,7 +23342,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R38")
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -23553,7 +23357,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "163f6fa5-8ce6-4469-8f25-f6e06d1537ca")
-		(property "Reference" "C56"
+		(property "Reference" "C49"
 			(at 176.276 286.766 0)
 			(effects
 				(font
@@ -23607,7 +23411,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C56")
+					(reference "C49")
 					(unit 1)
 				)
 			)
@@ -24089,7 +23893,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1a58be97-965a-4552-9751-048c6cf08f24")
-		(property "Reference" "R75"
+		(property "Reference" "R71"
 			(at 398.78 204.47 90)
 			(effects
 				(font
@@ -24107,7 +23911,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 397.51 208.788 90)
 			(effects
 				(font
@@ -24142,7 +23946,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R75")
+					(reference "R71")
 					(unit 1)
 				)
 			)
@@ -24222,7 +24026,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1a7a8f67-39d3-4832-aa5a-f069be0fc2e6")
-		(property "Reference" "R55"
+		(property "Reference" "R51"
 			(at 309.245 169.545 90)
 			(effects
 				(font
@@ -24240,7 +24044,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 306.07 169.418 90)
 			(effects
 				(font
@@ -24275,7 +24079,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R55")
+					(reference "R51")
 					(unit 1)
 				)
 			)
@@ -24290,7 +24094,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1ae33b59-b541-4147-9f70-be63f97709d2")
-		(property "Reference" "R62"
+		(property "Reference" "R58"
 			(at 398.78 177.8 90)
 			(effects
 				(font
@@ -24308,7 +24112,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 397.51 182.118 90)
 			(effects
 				(font
@@ -24343,7 +24147,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R62")
+					(reference "R58")
 					(unit 1)
 				)
 			)
@@ -24512,7 +24316,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 508 181.61 90)
 			(effects
 				(font
@@ -24581,7 +24385,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1d11143a-e553-462e-9fe2-fc1629111d34")
-		(property "Reference" "R37"
+		(property "Reference" "R34"
 			(at 257.81 135.89 90)
 			(effects
 				(font
@@ -24633,7 +24437,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R37")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -24789,7 +24593,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1deeff14-4e4f-455e-8f56-b72ca1fc01a6")
-		(property "Reference" "C26"
+		(property "Reference" "C27"
 			(at 432.435 159.385 0)
 			(effects
 				(font
@@ -24842,7 +24646,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C26")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -24943,7 +24747,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 45.72 30.988 90)
 			(effects
 				(font
@@ -25078,7 +24882,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 558.8 153.67 90)
 			(effects
 				(font
@@ -25165,7 +24969,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 45.72 43.688 90)
 			(effects
 				(font
@@ -25216,7 +25020,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "255c7a05-4fb4-4a4e-b0b2-6eb1af21742f")
-		(property "Reference" "R65"
+		(property "Reference" "R61"
 			(at 371.475 196.215 90)
 			(effects
 				(font
@@ -25234,7 +25038,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 368.3 196.088 90)
 			(effects
 				(font
@@ -25269,7 +25073,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R65")
+					(reference "R61")
 					(unit 1)
 				)
 			)
@@ -25419,7 +25223,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "27d23bb2-0053-4930-9223-0aeafe64334b")
-		(property "Reference" "R50"
+		(property "Reference" "R46"
 			(at 35.56 157.48 90)
 			(effects
 				(font
@@ -25473,7 +25277,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R50")
+					(reference "R46")
 					(unit 1)
 				)
 			)
@@ -25659,7 +25463,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 469.9 153.67 90)
 			(effects
 				(font
@@ -25941,7 +25745,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "292f4d39-a189-4ba5-a984-23ed6f1380fd")
-		(property "Reference" "C55"
+		(property "Reference" "C48"
 			(at 164.592 286.766 0)
 			(effects
 				(font
@@ -25995,7 +25799,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C55")
+					(reference "C48")
 					(unit 1)
 				)
 			)
@@ -26320,7 +26124,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 350.52 28.448 90)
 			(effects
 				(font
@@ -26390,7 +26194,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 546.1 181.61 90)
 			(effects
 				(font
@@ -26628,7 +26432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123F"
+		(property "Footprint" "custom:SOD-123"
 			(at 53.34 283.21 0)
 			(effects
 				(font
@@ -26679,8 +26483,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3074faf3-bc07-4bc8-8fba-03b93db2fb78")
-		(property "Reference" "C33"
-			(at 30.988 176.276 90)
+		(property "Reference" "C34"
+			(at 30.48 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26689,7 +26493,7 @@
 			)
 		)
 		(property "Value" "18p"
-			(at 31.242 174.244 90)
+			(at 31.75 172.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26733,7 +26537,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C33")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -26748,7 +26552,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "309854e7-345b-4d5b-9ba0-602957a87af6")
-		(property "Reference" "C63"
+		(property "Reference" "C56"
 			(at 294.64 288.29 0)
 			(effects
 				(font
@@ -26802,7 +26606,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C63")
+					(reference "C56")
 					(unit 1)
 				)
 			)
@@ -27149,7 +26953,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "33724ba0-50e7-4e63-a383-afb43992334d")
-		(property "Reference" "R72"
+		(property "Reference" "R68"
 			(at 309.245 206.375 90)
 			(effects
 				(font
@@ -27167,7 +26971,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 306.07 206.248 90)
 			(effects
 				(font
@@ -27202,7 +27006,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R72")
+					(reference "R68")
 					(unit 1)
 				)
 			)
@@ -27482,7 +27286,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3434a557-30e8-40dc-be69-55679cf037af")
-		(property "Reference" "C35"
+		(property "Reference" "C36"
 			(at 381 201.93 90)
 			(effects
 				(font
@@ -27534,7 +27338,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C35")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -27568,7 +27372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 469.9 167.64 90)
 			(effects
 				(font
@@ -27637,7 +27441,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "345d3eea-f095-437b-8c97-1311329e8e8b")
-		(property "Reference" "R46"
+		(property "Reference" "R43"
 			(at 336.55 149.86 90)
 			(effects
 				(font
@@ -27655,7 +27459,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 335.28 154.178 90)
 			(effects
 				(font
@@ -27690,7 +27494,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R46")
+					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -27926,7 +27730,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 508 167.64 90)
 			(effects
 				(font
@@ -27995,7 +27799,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "35c18f92-c8ad-49df-8e85-deb2d65f45cf")
-		(property "Reference" "R47"
+		(property "Reference" "R44"
 			(at 398.78 149.86 90)
 			(effects
 				(font
@@ -28013,7 +27817,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 397.51 154.178 90)
 			(effects
 				(font
@@ -28048,7 +27852,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R47")
+					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -28332,7 +28136,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 274.066 93.472 90)
+			(at 275.59 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28521,7 +28325,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3cdf5b63-5590-4096-a4f0-0c383d19c96b")
-		(property "Reference" "C58"
+		(property "Reference" "C51"
 			(at 206.502 286.766 0)
 			(effects
 				(font
@@ -28530,7 +28334,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "100u"
 			(at 207.01 290.068 0)
 			(effects
 				(font
@@ -28575,7 +28379,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C58")
+					(reference "C51")
 					(unit 1)
 				)
 			)
@@ -28961,7 +28765,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "429719b0-0f51-4508-81ba-a454f80e719b")
-		(property "Reference" "R88"
+		(property "Reference" "R84"
 			(at 398.78 232.41 90)
 			(effects
 				(font
@@ -28979,7 +28783,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 397.51 236.728 90)
 			(effects
 				(font
@@ -29014,7 +28818,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R88")
+					(reference "R84")
 					(unit 1)
 				)
 			)
@@ -29285,7 +29089,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "44748f82-adf6-44fb-a74e-92909756a1ea")
-		(property "Reference" "R53"
+		(property "Reference" "R49"
 			(at 243.84 162.56 90)
 			(effects
 				(font
@@ -29337,7 +29141,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R53")
+					(reference "R49")
 					(unit 1)
 				)
 			)
@@ -29538,7 +29342,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 520.7 209.55 90)
 			(effects
 				(font
@@ -29675,7 +29479,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "47268607-097b-4ec0-8eaf-ffb040633aa0")
-		(property "Reference" "C30"
+		(property "Reference" "C31"
 			(at 432.435 169.545 0)
 			(effects
 				(font
@@ -29728,7 +29532,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C30")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -29877,7 +29681,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "48e2ab9c-396e-496c-8b3c-fc8f113d2361")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR081"
 			(at 118.11 158.75 0)
 			(effects
 				(font
@@ -29927,7 +29731,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "#PWR080")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -30150,7 +29954,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "49d14e68-f9ad-4e6e-95a2-2f2e798e62a3")
-		(property "Reference" "C38"
+		(property "Reference" "C39"
 			(at 432.435 224.155 0)
 			(effects
 				(font
@@ -30203,7 +30007,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C38")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -30289,7 +30093,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4c90bd08-29a8-4774-ba4f-922bb4c1758b")
-		(property "Reference" "R67"
+		(property "Reference" "R63"
 			(at 168.275 194.945 90)
 			(effects
 				(font
@@ -30343,7 +30147,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R67")
+					(reference "R63")
 					(unit 1)
 				)
 			)
@@ -30377,7 +30181,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 482.6 167.64 90)
 			(effects
 				(font
@@ -30633,73 +30437,6 @@
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
 					(reference "#PWR085")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 438.15 111.76 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4d9aa188-f875-4643-99e5-c978d0bbb923")
-		(property "Reference" "R29"
-			(at 438.404 113.792 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1k"
-			(at 438.15 111.76 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 438.15 109.982 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 438.15 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 438.15 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8884483b-5d5b-4562-80df-d52903b4b607")
-		)
-		(pin "2"
-			(uuid "457da89c-5cc4-4220-9851-9a897c342946")
-		)
-		(instances
-			(project "igb01_module_ctrl"
-				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -30979,7 +30716,7 @@
 		(dnp no)
 		(uuid "4ed01503-eff7-4433-a328-5da37b8db6f1")
 		(property "Reference" "C16"
-			(at 446.024 102.108 90)
+			(at 444.5 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30988,7 +30725,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 448.056 102.362 90)
+			(at 449.58 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31048,7 +30785,7 @@
 		(dnp no)
 		(uuid "4f2cbdc8-3398-4482-8ba1-8d78f4ee69e4")
 		(property "Reference" "C22"
-			(at 117.094 159.258 90)
+			(at 116.84 162.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31057,7 +30794,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 119.126 159.512 90)
+			(at 119.38 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31185,7 +30922,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4ff857fd-a5de-4713-a1fa-0ca956f66e71")
-		(property "Reference" "R59"
+		(property "Reference" "R55"
 			(at 309.245 179.705 90)
 			(effects
 				(font
@@ -31203,7 +30940,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 306.07 179.578 90)
 			(effects
 				(font
@@ -31238,7 +30975,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R59")
+					(reference "R55")
 					(unit 1)
 				)
 			)
@@ -31337,7 +31074,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 468.63 195.58 90)
 			(effects
 				(font
@@ -31392,73 +31129,6 @@
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
 					(reference "D26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 254 130.81 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "52315950-2c8c-4476-923c-8c8d34a5d388")
-		(property "Reference" "R32"
-			(at 257.81 132.08 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "33k"
-			(at 254 130.81 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 254 129.032 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 254 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 254 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6a7fff5f-91b4-43af-b175-934e1e603989")
-		)
-		(pin "2"
-			(uuid "be878dd7-aedb-41ea-9270-26fd7939e4ee")
-		)
-		(instances
-			(project "igb01_module_ctrl"
-				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -31562,7 +31232,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 558.8 181.61 90)
 			(effects
 				(font
@@ -31631,7 +31301,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "537cc142-9ea3-44cb-b272-18a78af818a1")
-		(property "Reference" "R27"
+		(property "Reference" "R26"
 			(at 206.375 97.79 90)
 			(effects
 				(font
@@ -31683,7 +31353,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R27")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -31698,7 +31368,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "539e7570-6689-498a-be99-5f035dd8775d")
-		(property "Reference" "C54"
+		(property "Reference" "C47"
 			(at 146.812 285.496 0)
 			(effects
 				(font
@@ -31752,7 +31422,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C54")
+					(reference "C47")
 					(unit 1)
 				)
 			)
@@ -31931,75 +31601,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 175.26 255.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "58f2181f-7a8e-462e-9a86-4b45d65f5663")
-		(property "Reference" "C42"
-			(at 174.244 257.048 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 176.276 257.302 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 175.26 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 175.26 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 175.26 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "158615d2-83f6-4dab-83b6-43b722224b1a")
-		)
-		(pin "2"
-			(uuid "8aa68f76-adb4-4fb1-afb9-682e8cd29fb8")
-		)
-		(instances
-			(project "igb01_module_ctrl"
-				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
 		(at 121.92 186.69 90)
 		(unit 1)
@@ -32074,7 +31675,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59c58cc4-709a-41f6-8277-727a1db7ec29")
-		(property "Reference" "R36"
+		(property "Reference" "R33"
 			(at 243.84 132.08 90)
 			(effects
 				(font
@@ -32082,7 +31683,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "200k"
 			(at 242.57 134.62 90)
 			(effects
 				(font
@@ -32126,7 +31727,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R36")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -32141,7 +31742,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59d747dd-28b1-4d6e-8efe-3f012934bb98")
-		(property "Reference" "R39"
+		(property "Reference" "R36"
 			(at 309.245 141.605 90)
 			(effects
 				(font
@@ -32159,7 +31760,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 306.07 141.478 90)
 			(effects
 				(font
@@ -32194,7 +31795,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R39")
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -32378,7 +31979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 546.1 195.58 90)
 			(effects
 				(font
@@ -32501,73 +32102,6 @@
 			(project ""
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
 					(reference "SW1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 438.15 78.74 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5ccad132-2ddd-4209-994a-7ec1a33732db")
-		(property "Reference" "R19"
-			(at 438.404 80.772 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1k"
-			(at 438.15 78.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 438.15 76.962 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 438.15 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 438.15 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b99afca2-aa45-4a91-9952-c3d5b887a233")
-		)
-		(pin "2"
-			(uuid "884448d0-cf2f-49af-9d25-e886c68331d0")
-		)
-		(instances
-			(project "igb01_module_ctrl"
-				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -32805,7 +32339,7 @@
 		(dnp no)
 		(uuid "5f65c81b-397d-407c-8e8f-7de7758a8abf")
 		(property "Reference" "C21"
-			(at 112.014 159.258 90)
+			(at 111.76 162.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32814,7 +32348,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 114.046 159.512 90)
+			(at 114.3 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33046,7 +32580,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5fee02bb-f24b-4dda-a42b-47804b341556")
-		(property "Reference" "R25"
+		(property "Reference" "R24"
 			(at 120.015 97.79 90)
 			(effects
 				(font
@@ -33098,7 +32632,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R25")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -33196,7 +32730,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 546.1 209.55 90)
 			(effects
 				(font
@@ -33609,7 +33143,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "66ef2e5a-033b-4dbd-8505-c1b9fadee245")
-		(property "Reference" "C50"
+		(property "Reference" "C43"
 			(at 73.66 285.7562 0)
 			(effects
 				(font
@@ -33663,7 +33197,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C50")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -33678,7 +33212,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "67532319-4863-4f25-9d6b-4b048218e092")
-		(property "Reference" "R22"
+		(property "Reference" "R21"
 			(at 167.005 88.9 90)
 			(effects
 				(font
@@ -33730,7 +33264,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R22")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -34132,7 +33666,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 388.62 28.448 90)
 			(effects
 				(font
@@ -34250,7 +33784,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "68d62838-335d-4cd4-b015-1a1d61d34894")
-		(property "Reference" "R92"
+		(property "Reference" "R88"
 			(at 304.165 277.495 90)
 			(effects
 				(font
@@ -34304,7 +33838,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R92")
+					(reference "R88")
 					(unit 1)
 				)
 			)
@@ -34389,7 +33923,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "697517b5-fadd-40f5-a81a-345fc39937f7")
-		(property "Reference" "R71"
+		(property "Reference" "R67"
 			(at 183.515 194.945 90)
 			(effects
 				(font
@@ -34443,7 +33977,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R71")
+					(reference "R67")
 					(unit 1)
 				)
 			)
@@ -34764,7 +34298,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6c3d74d1-c8d8-403a-8b62-1ad6591feb43")
-		(property "Reference" "R87"
+		(property "Reference" "R83"
 			(at 336.55 232.41 90)
 			(effects
 				(font
@@ -34782,7 +34316,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 335.28 236.728 90)
 			(effects
 				(font
@@ -34817,7 +34351,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R87")
+					(reference "R83")
 					(unit 1)
 				)
 			)
@@ -35049,7 +34583,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 469.9 181.61 90)
 			(effects
 				(font
@@ -35118,7 +34652,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6f04fb6c-2f4b-45f8-883a-5781324abef8")
-		(property "Reference" "R33"
+		(property "Reference" "R30"
 			(at 168.275 136.525 90)
 			(effects
 				(font
@@ -35136,7 +34670,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 168.402 133.35 90)
 			(effects
 				(font
@@ -35171,7 +34705,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R33")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -35399,7 +34933,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "70175a9a-7277-4696-812e-7c6e41e51664")
-		(property "Reference" "R58"
+		(property "Reference" "R54"
 			(at 386.715 169.545 90)
 			(effects
 				(font
@@ -35417,7 +34951,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 383.54 169.418 90)
 			(effects
 				(font
@@ -35452,7 +34986,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R58")
+					(reference "R54")
 					(unit 1)
 				)
 			)
@@ -35467,7 +35001,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7030b7dc-2319-47cd-91ee-c3b6a50fd5ff")
-		(property "Reference" "C34"
+		(property "Reference" "C35"
 			(at 318.77 201.93 90)
 			(effects
 				(font
@@ -35519,7 +35053,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C34")
+					(reference "C35")
 					(unit 1)
 				)
 			)
@@ -35553,7 +35087,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 482.6 181.61 90)
 			(effects
 				(font
@@ -35700,7 +35234,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "70be2ed6-5fcb-4e1d-b383-1c332d7e530d")
-		(property "Reference" "R20"
+		(property "Reference" "R19"
 			(at 403.098 84.074 90)
 			(effects
 				(font
@@ -35752,7 +35286,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R20")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -35972,7 +35506,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "71774699-91ae-4eb0-bb63-fba4ca0bccc2")
-		(property "Reference" "R89"
+		(property "Reference" "R85"
 			(at 106.68 237.49 90)
 			(effects
 				(font
@@ -36024,7 +35558,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R89")
+					(reference "R85")
 					(unit 1)
 				)
 			)
@@ -36040,7 +35574,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72019cca-9cb8-471f-9bbf-1da5f2092f7f")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR078"
 			(at 424.18 156.21 0)
 			(effects
 				(font
@@ -36090,7 +35624,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "#PWR077")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -36124,7 +35658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 508 153.67 90)
 			(effects
 				(font
@@ -36391,7 +35925,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7775dae0-385b-438f-893d-261ba3c83899")
-		(property "Reference" "C60"
+		(property "Reference" "C53"
 			(at 247.396 286.766 0)
 			(effects
 				(font
@@ -36445,7 +35979,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C60")
+					(reference "C53")
 					(unit 1)
 				)
 			)
@@ -36583,7 +36117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 520.7 167.64 90)
 			(effects
 				(font
@@ -36775,75 +36309,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 166.37 257.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7a4a20ba-a072-4be8-809b-be01087553bc")
-		(property "Reference" "C45"
-			(at 165.354 259.588 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 167.386 259.842 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 166.37 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 166.37 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 166.37 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fa9a45a4-251e-48d2-85a7-158d88abb090")
-		)
-		(pin "2"
-			(uuid "f1384a7d-f255-466f-ba69-d30461d095fb")
-		)
-		(instances
-			(project "igb01_module_ctrl"
-				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "R_Pot_360:RV142FPF-40B1")
 		(at 486.41 215.9 0)
 		(unit 2)
@@ -36920,75 +36385,6 @@
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
 					(reference "RV4")
 					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 223.52 257.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7aba4ce3-4b14-4833-9e7f-ad26d9523148")
-		(property "Reference" "C48"
-			(at 222.504 259.588 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 224.536 259.842 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 223.52 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 223.52 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 223.52 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fded06d2-4176-46ed-9fbf-42d2bf1714d4")
-		)
-		(pin "2"
-			(uuid "9ce21f01-261f-4f4f-b649-428118385a9f")
-		)
-		(instances
-			(project "igb01_module_ctrl"
-				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C48")
-					(unit 1)
 				)
 			)
 		)
@@ -37089,7 +36485,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 533.4 195.58 90)
 			(effects
 				(font
@@ -37177,7 +36573,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 558.8 195.58 90)
 			(effects
 				(font
@@ -37452,7 +36848,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 190.246 85.852 90)
+			(at 191.77 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37775,7 +37171,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7df2c3a6-48b4-4eb9-9cd5-2b846387c7c6")
-		(property "Reference" "R84"
+		(property "Reference" "R80"
 			(at 309.245 234.315 90)
 			(effects
 				(font
@@ -37793,7 +37189,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 306.07 234.188 90)
 			(effects
 				(font
@@ -37828,7 +37224,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R84")
+					(reference "R80")
 					(unit 1)
 				)
 			)
@@ -37843,7 +37239,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7e519fc9-ef32-4c9b-8403-e5e12043a3a1")
-		(property "Reference" "R90"
+		(property "Reference" "R86"
 			(at 106.68 240.03 90)
 			(effects
 				(font
@@ -37895,7 +37291,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R90")
+					(reference "R86")
 					(unit 1)
 				)
 			)
@@ -37979,7 +37375,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8000f454-4b44-48cd-8d95-63e8286b28d6")
-		(property "Reference" "C64"
+		(property "Reference" "C57"
 			(at 66.04 295.3638 0)
 			(effects
 				(font
@@ -38033,7 +37429,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C64")
+					(reference "C57")
 					(unit 1)
 				)
 			)
@@ -38067,7 +37463,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 495.3 195.58 90)
 			(effects
 				(font
@@ -38413,7 +37809,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8582f71d-209b-4766-ab82-7a0c5a1d73bd")
-		(property "Reference" "R21"
+		(property "Reference" "R20"
 			(at 132.715 88.9 90)
 			(effects
 				(font
@@ -38465,7 +37861,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R21")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -38616,7 +38012,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "868d7632-0615-4a1a-8fd4-ee4ed43817a7")
-		(property "Reference" "R40"
+		(property "Reference" "R37"
 			(at 324.485 141.605 90)
 			(effects
 				(font
@@ -38634,7 +38030,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 321.31 141.478 90)
 			(effects
 				(font
@@ -38669,7 +38065,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R40")
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -38703,7 +38099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 533.4 153.67 90)
 			(effects
 				(font
@@ -38788,7 +38184,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123F"
+		(property "Footprint" "custom:SOD-123"
 			(at 53.34 300.99 0)
 			(effects
 				(font
@@ -38974,7 +38370,7 @@
 		(dnp no)
 		(uuid "898d9700-9cb7-4d76-9afe-fbe3ce576ffb")
 		(property "Reference" "C23"
-			(at 122.174 159.258 90)
+			(at 121.92 162.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38983,7 +38379,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 124.206 159.512 90)
+			(at 124.46 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39243,7 +38639,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8b413d80-584d-4850-916e-d9cef99cb62c")
-		(property "Reference" "C32"
+		(property "Reference" "C33"
 			(at 381 175.26 90)
 			(effects
 				(font
@@ -39295,7 +38691,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C32")
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -39310,7 +38706,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8beb302d-db2b-47a3-8054-c8962fbe3be0")
-		(property "Reference" "R81"
+		(property "Reference" "R77"
 			(at 93.98 227.33 90)
 			(effects
 				(font
@@ -39364,7 +38760,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R81")
+					(reference "R77")
 					(unit 1)
 				)
 			)
@@ -39670,7 +39066,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "custom:SOD-123"
 			(at 317.5 81.28 90)
 			(effects
 				(font
@@ -39872,7 +39268,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9119fa45-fbea-4a00-930f-f95d83cf59d2")
-		(property "Reference" "R52"
+		(property "Reference" "R48"
 			(at 257.81 161.29 90)
 			(effects
 				(font
@@ -39924,7 +39320,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R52")
+					(reference "R48")
 					(unit 1)
 				)
 			)
@@ -40007,7 +39403,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "918d77b9-f8e7-439a-89a9-2cbb6799f828")
-		(property "Reference" "R63"
+		(property "Reference" "R59"
 			(at 309.245 196.215 90)
 			(effects
 				(font
@@ -40025,7 +39421,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 306.07 196.088 90)
 			(effects
 				(font
@@ -40060,7 +39456,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R63")
+					(reference "R59")
 					(unit 1)
 				)
 			)
@@ -40335,73 +39731,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 254 156.21 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "940a80a0-bcd3-4a81-92c5-497455728bb1")
-		(property "Reference" "R48"
-			(at 257.81 157.48 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "33k"
-			(at 254 156.21 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 254 154.432 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 254 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 254 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4c7b2599-1c4a-4dcb-9518-1c678faf55bc")
-		)
-		(pin "2"
-			(uuid "2f9b6f6b-e35d-46c5-9b91-74670b10702d")
-		)
-		(instances
-			(project "igb01_module_ctrl"
-				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R48")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 194.31 157.48 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -40409,7 +39738,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "94166ede-06ba-4e79-a658-47cdcfe2b139")
-		(property "Reference" "R49"
+		(property "Reference" "R45"
 			(at 197.485 159.385 90)
 			(effects
 				(font
@@ -40427,7 +39756,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 194.31 159.258 90)
 			(effects
 				(font
@@ -40462,7 +39791,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R49")
+					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -40477,7 +39806,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "944e4cdb-5a3f-42c9-81ce-9dd9a51fba6a")
-		(property "Reference" "C53"
+		(property "Reference" "C46"
 			(at 143.256 285.496 0)
 			(effects
 				(font
@@ -40531,7 +39860,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C53")
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -40614,7 +39943,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "94ab2522-e8ab-4287-9fc9-3bafb206bcb1")
-		(property "Reference" "R42"
+		(property "Reference" "R39"
 			(at 386.715 141.605 90)
 			(effects
 				(font
@@ -40632,7 +39961,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 383.54 141.478 90)
 			(effects
 				(font
@@ -40667,7 +39996,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R42")
+					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -40682,7 +40011,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "955105b3-e7c8-4ede-925c-5d11602deb6e")
-		(property "Reference" "C62"
+		(property "Reference" "C55"
 			(at 277.622 286.766 0)
 			(effects
 				(font
@@ -40736,7 +40065,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C62")
+					(reference "C55")
 					(unit 1)
 				)
 			)
@@ -40819,7 +40148,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "95ef99b0-e2b3-41ee-af1c-d1d2bb1b4a56")
-		(property "Reference" "R70"
+		(property "Reference" "R66"
 			(at 179.705 194.945 90)
 			(effects
 				(font
@@ -40873,7 +40202,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R70")
+					(reference "R66")
 					(unit 1)
 				)
 			)
@@ -40888,7 +40217,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "96502414-9767-4e2b-a6e1-4d930e6659a5")
-		(property "Reference" "C65"
+		(property "Reference" "C58"
 			(at 73.66 295.9162 0)
 			(effects
 				(font
@@ -40942,7 +40271,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C65")
+					(reference "C58")
 					(unit 1)
 				)
 			)
@@ -41043,7 +40372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 481.33 209.55 90)
 			(effects
 				(font
@@ -41112,7 +40441,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "974bd707-d1f3-4e19-a090-8aa176e7aaed")
-		(property "Reference" "R24"
+		(property "Reference" "R23"
 			(at 252.095 88.9 90)
 			(effects
 				(font
@@ -41164,7 +40493,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R24")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -41318,7 +40647,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9882a1b1-2f9c-470a-941e-85b2d4f9a5f7")
-		(property "Reference" "R23"
+		(property "Reference" "R22"
 			(at 219.075 88.9 90)
 			(effects
 				(font
@@ -41370,7 +40699,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R23")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -41385,7 +40714,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "988aef84-d0e4-464e-beb8-c1ca618a6cd2")
-		(property "Reference" "R26"
+		(property "Reference" "R25"
 			(at 154.305 97.79 90)
 			(effects
 				(font
@@ -41437,7 +40766,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R26")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -41539,7 +40868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 495.3 167.64 90)
 			(effects
 				(font
@@ -41608,7 +40937,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "99838251-05bd-4c90-ada8-8f86b80a5c55")
-		(property "Reference" "R66"
+		(property "Reference" "R62"
 			(at 386.715 196.215 90)
 			(effects
 				(font
@@ -41626,7 +40955,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 383.54 196.088 90)
 			(effects
 				(font
@@ -41661,7 +40990,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R66")
+					(reference "R62")
 					(unit 1)
 				)
 			)
@@ -41694,7 +41023,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 388.62 43.688 90)
 			(effects
 				(font
@@ -41944,7 +41273,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9c7d6e3d-3f1b-4472-b330-a610df06eeff")
-		(property "Reference" "C61"
+		(property "Reference" "C54"
 			(at 275.336 286.766 0)
 			(effects
 				(font
@@ -41998,7 +41327,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C61")
+					(reference "C54")
 					(unit 1)
 				)
 			)
@@ -42013,7 +41342,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9d793bba-5fc4-4c55-b80f-f19278cc01b6")
-		(property "Reference" "R86"
+		(property "Reference" "R82"
 			(at 106.68 234.95 90)
 			(effects
 				(font
@@ -42065,7 +41394,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R86")
+					(reference "R82")
 					(unit 1)
 				)
 			)
@@ -42080,7 +41409,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9d93a9e5-9817-4b58-8697-fe818e8bee32")
-		(property "Reference" "R79"
+		(property "Reference" "R75"
 			(at 386.715 224.155 90)
 			(effects
 				(font
@@ -42098,7 +41427,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 383.54 224.028 90)
 			(effects
 				(font
@@ -42133,7 +41462,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R79")
+					(reference "R75")
 					(unit 1)
 				)
 			)
@@ -42148,7 +41477,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9eb65bf0-95aa-4128-b30c-c896f8c087f5")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR082"
 			(at 123.19 158.75 0)
 			(effects
 				(font
@@ -42198,7 +41527,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "#PWR081")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -42213,7 +41542,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9fd99190-6462-4404-b07c-34a743e08e7f")
-		(property "Reference" "R73"
+		(property "Reference" "R69"
 			(at 371.475 206.375 90)
 			(effects
 				(font
@@ -42231,7 +41560,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 368.3 206.248 90)
 			(effects
 				(font
@@ -42266,7 +41595,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R73")
+					(reference "R69")
 					(unit 1)
 				)
 			)
@@ -42863,7 +42192,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a2ce1129-a9c6-4a7a-b224-ce8bc4538131")
-		(property "Reference" "C57"
+		(property "Reference" "C50"
 			(at 204.216 286.766 0)
 			(effects
 				(font
@@ -42917,7 +42246,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C57")
+					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -42997,7 +42326,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a4a5ba96-67f0-471b-8305-30d7c8708afc")
-		(property "Reference" "C40"
+		(property "Reference" "C41"
 			(at 381 229.87 90)
 			(effects
 				(font
@@ -43049,7 +42378,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C40")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -43216,7 +42545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 508 195.58 90)
 			(effects
 				(font
@@ -43285,7 +42614,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a5b2509b-43a1-4830-b2d5-120ed78fba6b")
-		(property "Reference" "R80"
+		(property "Reference" "R76"
 			(at 83.82 226.06 90)
 			(effects
 				(font
@@ -43339,7 +42668,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R80")
+					(reference "R76")
 					(unit 1)
 				)
 			)
@@ -43424,7 +42753,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a6914723-af00-4eb8-8eb5-ad31f81198d9")
-		(property "Reference" "R64"
+		(property "Reference" "R60"
 			(at 324.485 196.215 90)
 			(effects
 				(font
@@ -43442,7 +42771,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 321.31 196.088 90)
 			(effects
 				(font
@@ -43477,7 +42806,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R64")
+					(reference "R60")
 					(unit 1)
 				)
 			)
@@ -43786,7 +43115,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 508 209.55 90)
 			(effects
 				(font
@@ -44069,7 +43398,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 520.7 181.61 90)
 			(effects
 				(font
@@ -44201,7 +43530,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ad69c1ce-4ebd-479e-ad82-236cb5e0eecd")
-		(property "Reference" "R31"
+		(property "Reference" "R29"
 			(at 403.098 117.094 90)
 			(effects
 				(font
@@ -44253,7 +43582,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R31")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -44268,7 +43597,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ae74caca-5edb-4024-ba1d-d7d0f5a851a1")
-		(property "Reference" "C59"
+		(property "Reference" "C52"
 			(at 235.712 286.766 0)
 			(effects
 				(font
@@ -44322,7 +43651,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C59")
+					(reference "C52")
 					(unit 1)
 				)
 			)
@@ -44337,7 +43666,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aff1bd19-f147-4430-b8a4-0b579e250fcf")
-		(property "Reference" "R43"
+		(property "Reference" "R40"
 			(at 274.32 143.51 90)
 			(effects
 				(font
@@ -44389,7 +43718,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R43")
+					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -44555,7 +43884,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 350.52 43.688 90)
 			(effects
 				(font
@@ -44768,75 +44097,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 194.31 255.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b4533c12-52f1-487d-8351-c10fe461cd8f")
-		(property "Reference" "C43"
-			(at 193.294 257.048 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 195.326 257.302 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 194.31 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 194.31 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 194.31 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a533275b-2c5f-4c13-8179-3a8914397ac4")
-		)
-		(pin "2"
-			(uuid "de88c73d-87d9-4b1d-b448-207ae661a4c4")
-		)
-		(instances
-			(project "igb01_module_ctrl"
-				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
 		(at 184.15 210.82 90)
 		(unit 1)
@@ -44980,15 +44240,15 @@
 	)
 	(symbol
 		(lib_id "power:+3.3VA")
-		(at 133.35 154.94 0)
+		(at 133.35 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "b6176739-fc3b-4c82-9668-06407282860b")
-		(property "Reference" "#PWR083"
-			(at 133.35 158.75 0)
+		(property "Reference" "#PWR077"
+			(at 133.35 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44997,7 +44257,7 @@
 			)
 		)
 		(property "Value" "+3.3VA"
-			(at 133.096 148.59 90)
+			(at 133.096 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45005,7 +44265,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 133.35 154.94 0)
+			(at 133.35 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45014,7 +44274,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 133.35 154.94 0)
+			(at 133.35 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45023,7 +44283,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
-			(at 133.35 154.94 0)
+			(at 133.35 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45037,7 +44297,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "#PWR083")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -45052,7 +44312,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b74cd3a3-7637-4c8d-8082-a610802a6b5a")
-		(property "Reference" "R51"
+		(property "Reference" "R47"
 			(at 243.84 157.48 90)
 			(effects
 				(font
@@ -45060,7 +44320,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "200k"
 			(at 242.57 160.02 90)
 			(effects
 				(font
@@ -45104,7 +44364,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R51")
+					(reference "R47")
 					(unit 1)
 				)
 			)
@@ -45170,75 +44430,6 @@
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
 					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 204.47 257.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ba2cd89e-4281-46c2-b7a5-8eb33d00af3c")
-		(property "Reference" "C47"
-			(at 203.454 259.588 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 205.486 259.842 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 204.47 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 204.47 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 204.47 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "beb1e9c3-23a4-498d-ace8-a5c0cd68ebed")
-		)
-		(pin "2"
-			(uuid "7d01a0e7-a3a2-46d1-bf97-99e03a9cfca2")
-		)
-		(instances
-			(project "igb01_module_ctrl"
-				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C47")
 					(unit 1)
 				)
 			)
@@ -45427,7 +44618,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bbbb9f5c-dfbb-4c3d-9ae0-bde574a05617")
-		(property "Reference" "C37"
+		(property "Reference" "C38"
 			(at 432.435 213.995 0)
 			(effects
 				(font
@@ -45480,7 +44671,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C37")
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -45614,75 +44805,6 @@
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
 					(reference "SW26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 185.42 257.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bc4dde28-a14a-44c1-85f0-a5451e40f556")
-		(property "Reference" "C46"
-			(at 184.404 259.588 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 186.436 259.842 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 185.42 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 185.42 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 185.42 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d1e9eb82-6baf-483b-a9aa-b70b05794a49")
-		)
-		(pin "2"
-			(uuid "53f03667-c487-4992-937e-c9611479d3d5")
-		)
-		(instances
-			(project "igb01_module_ctrl"
-				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -45994,7 +45116,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 274.066 83.312 90)
+			(at 275.59 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46406,7 +45528,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 45.72 46.228 90)
 			(effects
 				(font
@@ -46542,7 +45664,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 45.72 28.448 90)
 			(effects
 				(font
@@ -46658,7 +45780,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c3fdbda1-f596-4e24-8051-848364d123c4")
-		(property "Reference" "R78"
+		(property "Reference" "R74"
 			(at 371.475 224.155 90)
 			(effects
 				(font
@@ -46676,7 +45798,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 368.3 224.028 90)
 			(effects
 				(font
@@ -46711,7 +45833,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R78")
+					(reference "R74")
 					(unit 1)
 				)
 			)
@@ -46745,7 +45867,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 546.1 167.64 90)
 			(effects
 				(font
@@ -46945,7 +46067,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c59d1d83-5afa-4b32-b20b-9cb530816161")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR080"
 			(at 113.03 158.75 0)
 			(effects
 				(font
@@ -46995,7 +46117,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "#PWR079")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -47095,7 +46217,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 468.63 209.55 90)
 			(effects
 				(font
@@ -47294,7 +46416,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c7e98ac9-5776-467c-b012-fd2df51ba4cf")
-		(property "Reference" "R35"
+		(property "Reference" "R32"
 			(at 192.405 137.795 90)
 			(effects
 				(font
@@ -47312,7 +46434,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 192.532 134.62 90)
 			(effects
 				(font
@@ -47347,7 +46469,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R35")
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -47780,7 +46902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 520.7 153.67 90)
 			(effects
 				(font
@@ -47926,7 +47048,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ce29c6b9-dc28-4a16-91f7-bf733606a05b")
-		(property "Reference" "C31"
+		(property "Reference" "C32"
 			(at 318.77 175.26 90)
 			(effects
 				(font
@@ -47978,7 +47100,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C31")
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -48012,7 +47134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 546.1 153.67 90)
 			(effects
 				(font
@@ -48081,7 +47203,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ceaf6692-a19d-4f1e-be3b-7a9e75b27ca3")
-		(property "Reference" "C28"
+		(property "Reference" "C29"
 			(at 166.37 157.48 90)
 			(effects
 				(font
@@ -48134,7 +47256,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C28")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -48149,7 +47271,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cf7e9200-ff13-4c74-aa03-428535554dd4")
-		(property "Reference" "C27"
+		(property "Reference" "C28"
 			(at 161.925 160.655 90)
 			(effects
 				(font
@@ -48167,7 +47289,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 163.83 161.29 0)
 			(effects
 				(font
@@ -48202,7 +47324,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C27")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -48217,7 +47339,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cf92e12b-32e2-4204-9da2-6a0f0f1d607e")
-		(property "Reference" "R83"
+		(property "Reference" "R79"
 			(at 104.14 227.33 90)
 			(effects
 				(font
@@ -48271,7 +47393,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R83")
+					(reference "R79")
 					(unit 1)
 				)
 			)
@@ -48421,7 +47543,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d26fcedb-52d9-470e-846c-e486ca2a9281")
-		(property "Reference" "R61"
+		(property "Reference" "R57"
 			(at 336.55 177.8 90)
 			(effects
 				(font
@@ -48439,7 +47561,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 335.28 182.118 90)
 			(effects
 				(font
@@ -48474,7 +47596,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R61")
+					(reference "R57")
 					(unit 1)
 				)
 			)
@@ -48508,7 +47630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 533.4 209.55 90)
 			(effects
 				(font
@@ -48645,7 +47767,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d46d2c86-8c45-4cfd-87d4-d99f6569f72a")
-		(property "Reference" "R34"
+		(property "Reference" "R31"
 			(at 162.56 134.62 90)
 			(effects
 				(font
@@ -48697,7 +47819,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R34")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -48712,7 +47834,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d540d749-b60f-4ddb-9c55-54494d0cd3c8")
-		(property "Reference" "R69"
+		(property "Reference" "R65"
 			(at 175.895 194.945 90)
 			(effects
 				(font
@@ -48766,7 +47888,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R69")
+					(reference "R65")
 					(unit 1)
 				)
 			)
@@ -48931,7 +48053,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 481.33 195.58 90)
 			(effects
 				(font
@@ -49019,7 +48141,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 495.3 181.61 90)
 			(effects
 				(font
@@ -49499,7 +48621,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "da6f91fb-3fc3-4f46-b83b-52356dcde189")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR083"
 			(at 128.27 158.75 0)
 			(effects
 				(font
@@ -49549,7 +48671,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "#PWR082")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -49564,7 +48686,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "da922ec6-c57d-4b08-811b-1bb42faf1d26")
-		(property "Reference" "R44"
+		(property "Reference" "R41"
 			(at 309.245 151.765 90)
 			(effects
 				(font
@@ -49582,7 +48704,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 306.07 151.638 90)
 			(effects
 				(font
@@ -49617,7 +48739,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R44")
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -50003,75 +49125,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 213.36 255.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "dcd7fe4c-cdfb-438f-9e4b-31c3bb93c510")
-		(property "Reference" "C44"
-			(at 212.344 257.048 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 214.376 257.302 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 213.36 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 213.36 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 213.36 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "92a94755-c48d-4683-8e85-334bf1f6bacf")
-		)
-		(pin "2"
-			(uuid "ac30c9e0-4758-4575-b7d4-f9b68f958fbd")
-		)
-		(instances
-			(project "igb01_module_ctrl"
-				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Small")
 		(at 482.6 153.67 90)
 		(unit 1)
@@ -50099,7 +49152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 482.6 153.67 90)
 			(effects
 				(font
@@ -50309,7 +49362,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dea3a275-8a2a-43be-8053-1e590bceb6b1")
-		(property "Reference" "C29"
+		(property "Reference" "C30"
 			(at 30.988 168.656 90)
 			(effects
 				(font
@@ -50363,7 +49416,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C29")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -50511,7 +49564,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e0b1ed65-272a-4517-89ac-b6d265c96eac")
-		(property "Reference" "C36"
+		(property "Reference" "C37"
 			(at 230.124 212.598 90)
 			(effects
 				(font
@@ -50565,7 +49618,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C36")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -51028,7 +50081,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e39662ae-ce8c-456b-8044-21713af799b1")
-		(property "Reference" "C49"
+		(property "Reference" "C42"
 			(at 66.04 285.2038 0)
 			(effects
 				(font
@@ -51082,7 +50135,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C49")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -51097,7 +50150,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e39be4a3-8042-40fa-85c8-8e051d27760c")
-		(property "Reference" "R60"
+		(property "Reference" "R56"
 			(at 371.475 179.705 90)
 			(effects
 				(font
@@ -51115,7 +50168,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 368.3 179.578 90)
 			(effects
 				(font
@@ -51150,7 +50203,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R60")
+					(reference "R56")
 					(unit 1)
 				)
 			)
@@ -51165,7 +50218,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e3bfbb52-b3c4-4559-870e-4e16f0125ab9")
-		(property "Reference" "R41"
+		(property "Reference" "R38"
 			(at 371.475 141.605 90)
 			(effects
 				(font
@@ -51183,7 +50236,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 368.3 141.478 90)
 			(effects
 				(font
@@ -51218,7 +50271,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R41")
+					(reference "R38")
 					(unit 1)
 				)
 			)
@@ -51301,7 +50354,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e45acecb-8814-4e13-9d68-a1394729a8a1")
-		(property "Reference" "R54"
+		(property "Reference" "R50"
 			(at 274.32 168.91 90)
 			(effects
 				(font
@@ -51353,7 +50406,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R54")
+					(reference "R50")
 					(unit 1)
 				)
 			)
@@ -51452,7 +50505,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 87.63 28.448 90)
 			(effects
 				(font
@@ -51638,7 +50691,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e5a665e9-a3d3-4787-af13-c0621b532361")
-		(property "Reference" "R45"
+		(property "Reference" "R42"
 			(at 371.475 151.765 90)
 			(effects
 				(font
@@ -51656,7 +50709,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 368.3 151.638 90)
 			(effects
 				(font
@@ -51691,7 +50744,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R45")
+					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -51707,7 +50760,7 @@
 		(dnp no)
 		(uuid "e90dbb9c-38fe-4f27-b34a-ef77472a7ae0")
 		(property "Reference" "C24"
-			(at 127.254 159.258 90)
+			(at 127 162.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51716,7 +50769,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 129.286 159.512 90)
+			(at 129.54 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51972,7 +51025,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e9a1a270-d270-4955-8629-fa280f8b8854")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR079"
 			(at 39.37 158.75 0)
 			(effects
 				(font
@@ -52022,7 +51075,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "#PWR078")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -52333,7 +51386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 495.3 209.55 90)
 			(effects
 				(font
@@ -52420,7 +51473,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 87.63 43.688 90)
 			(effects
 				(font
@@ -52553,7 +51606,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 533.4 181.61 90)
 			(effects
 				(font
@@ -52614,75 +51667,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 156.21 255.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f07b28e7-6307-4331-9ef9-c3c0012d4224")
-		(property "Reference" "C41"
-			(at 155.194 257.048 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 157.226 257.302 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 156.21 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 156.21 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 156.21 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2e89802a-1b02-4064-8bdb-f67f37d26396")
-		)
-		(pin "2"
-			(uuid "7e26485f-e639-4742-9445-70f4694494db")
-		)
-		(instances
-			(project "igb01_module_ctrl"
-				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Small")
 		(at 533.4 167.64 90)
 		(unit 1)
@@ -52710,7 +51694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 533.4 167.64 90)
 			(effects
 				(font
@@ -52798,7 +51782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 558.8 209.55 90)
 			(effects
 				(font
@@ -53003,7 +51987,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f2e8de6d-8c88-4ce2-9543-e2234bc0899f")
-		(property "Reference" "R74"
+		(property "Reference" "R70"
 			(at 336.55 204.47 90)
 			(effects
 				(font
@@ -53021,7 +52005,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 335.28 208.788 90)
 			(effects
 				(font
@@ -53056,7 +52040,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R74")
+					(reference "R70")
 					(unit 1)
 				)
 			)
@@ -53611,7 +52595,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f62e8497-1a54-47f1-970b-ec8fd101eac3")
-		(property "Reference" "R91"
+		(property "Reference" "R87"
 			(at 106.68 242.57 90)
 			(effects
 				(font
@@ -53663,7 +52647,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R91")
+					(reference "R87")
 					(unit 1)
 				)
 			)
@@ -53782,7 +52766,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f68c1e26-3871-4b9a-bca5-ba24fd766fa2")
-		(property "Reference" "R57"
+		(property "Reference" "R53"
 			(at 371.475 169.545 90)
 			(effects
 				(font
@@ -53800,7 +52784,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 368.3 169.418 90)
 			(effects
 				(font
@@ -53835,7 +52819,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R57")
+					(reference "R53")
 					(unit 1)
 				)
 			)
@@ -53850,7 +52834,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f6b37491-4ba3-4a7f-ac4f-3454ea236354")
-		(property "Reference" "C51"
+		(property "Reference" "C44"
 			(at 108.712 285.496 0)
 			(effects
 				(font
@@ -53904,7 +52888,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C51")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -54289,7 +53273,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fac76e79-b41a-4941-ae1c-09146a9991af")
-		(property "Reference" "R28"
+		(property "Reference" "R27"
 			(at 239.395 97.79 90)
 			(effects
 				(font
@@ -54341,7 +53325,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "R28")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -54570,7 +53554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+		(property "Footprint" "Diode_SMD:D_SOD-523"
 			(at 495.3 153.67 90)
 			(effects
 				(font
@@ -54713,7 +53697,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fd9c5618-609a-4d33-8147-e08c1bbd8819")
-		(property "Reference" "C52"
+		(property "Reference" "C45"
 			(at 120.396 285.496 0)
 			(effects
 				(font
@@ -54767,7 +53751,7 @@
 		(instances
 			(project "igb01_module_ctrl"
 				(path "/ed3ff789-b651-4b97-8441-5da0941ff3ea"
-					(reference "C52")
+					(reference "C45")
 					(unit 1)
 				)
 			)
