@@ -1,0 +1,17 @@
+(footprint "NPTH_5.2mm" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (property "Sheetfile" "SproutFX_panel.kicad_sch")
+  (property "Sheetname" "")
+  (property "ki_description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)")
+  (property "ki_keywords" "connector")
+  (attr through_hole)
+  (fp_text reference "J10" (at 0.35 2.3) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 7141ce7f-b15f-4651-8eb7-8b3345635e61)
+  )
+  (fp_text value "BUTTON_HOLE" (at 0.1 -3.55) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 06ecc1d4-9aae-4f3a-b5ad-b70bcffc23ee)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 5.2 5.2) (drill 5.2) (layers "F&B.Cu" "*.Mask") (tstamp b0ed31d7-d23a-4df5-a0fa-e5c871fd01a3))
+)

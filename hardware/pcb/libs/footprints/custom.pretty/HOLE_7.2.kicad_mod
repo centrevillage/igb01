@@ -1,0 +1,17 @@
+(footprint "HOLE_7.2" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (property "Sheetfile" "SproutFX_panel.kicad_sch")
+  (property "Sheetname" "")
+  (property "ki_description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)")
+  (property "ki_keywords" "connector")
+  (attr through_hole)
+  (fp_text reference "J1" (at 0 0.5) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e06c6dd8-4f33-4854-9a78-5c769774b747)
+  )
+  (fp_text value "KNOB_HOLE" (at 0 -0.5) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 6bde0fe3-082e-4aa6-ad99-fa1044fcaab1)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 8 8) (drill 7.2) (layers "*.Cu" "*.Mask") (tstamp cc5bcd26-c62b-4423-9965-2817252614c9))
+)
