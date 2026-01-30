@@ -28920,7 +28920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:SMDIP-8_W9.53mm"
+		(property "Footprint" "custom:DIP_Switch_1.27mm_SMD"
 			(at 38.1 210.82 0)
 			(effects
 				(font
