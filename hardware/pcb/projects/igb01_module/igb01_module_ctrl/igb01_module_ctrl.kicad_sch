@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "ed3ff789-b651-4b97-8441-5da0941ff3ea")
 	(paper "A2")
+	(title_block
+		(title "igb01 module ctrl")
+		(rev "0.1")
+	)
 	(lib_symbols
 		(symbol "74xGxx:74AHCT1G125"
 			(exclude_from_sim no)

@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "ff6d4ad7-823d-43df-94d2-4c32bcb78aa6")
 	(paper "A3")
+	(title_block
+		(title "igb_core")
+		(rev "0.1")
+	)
 	(lib_symbols
 		(symbol "AK4619:AK4619"
 			(exclude_from_sim no)
