@@ -1,0 +1,3 @@
+[submodule "firmware/stm32mp1-baremetal"]
+	path = firmware/stm32mp1-baremetal
+	url = git@github.com:4ms/stm32mp1-baremetal.git
